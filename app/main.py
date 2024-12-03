@@ -13,7 +13,7 @@ from fastapi.middleware.cors import CORSMiddleware
 DBHOST = "ds2022.cqee4iwdcaph.us-east-1.rds.amazonaws.com"
 DBUSER = "admin"
 DBPASS = os.getenv('DBPASS')
-DB = "eju2pk"
+DB = "csg7su"
 
 
 app = FastAPI()
