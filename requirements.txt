@@ -1,10 +1,8 @@
 uvicorn
 fastapi[standard]
-typing
 pydantic
 # pymongo
 # dnspython
 # mysqlclient
 mysql-connector-python
-import mysql.connector
-from mysql.connector import Error
+
